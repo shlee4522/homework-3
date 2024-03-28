@@ -30,3 +30,4 @@ printf("plist[3] = %p\n", plist[3]); //동적할당된 배열 plist[3] 출력
 printf("plist[4] = %p\n", plist[4]); //동적할당된 배열 plist[4] 출력
 free(plist[0]); //할당된 동적배열 해제
 }
+//commit 2nd
